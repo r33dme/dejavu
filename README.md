@@ -1,6 +1,8 @@
 # dejavu
 Deja Vu - I've just been in this chat before
 
+![Multi-Platform Messaging](https://i.imgur.com/ljRjn6V.png)
+
 Sometimes the lowest common denominator of all features is all you really want or need.
 This is for when it feels like you’ve used almost exactly the same messaging client before on another network on another platform...
 
